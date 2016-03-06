@@ -1,6 +1,9 @@
 # FAQ
 A set of frequently asked questions in Egyptian geeks group.
 
+The questions and answers can be found on the repository wiki at  
+**[github.com/egyptian-geeks/FAQ/wiki][wiki]**
+
 # What is this repository about?
 
 We noticed that there are some common questions asked in our group, and repeating them won't get us anywhere, so creating a central place for them is the most logical step we can take.
@@ -12,4 +15,9 @@ Any one can add and enhance content, if you see a question that is asked more th
 # Where are the FAQs then?
 
 You can find them in the "Wiki" tab.
+
+Can't see a "Wiki" link?  
+Go to **[github.com/egyptian-geeks/FAQ/wiki][wiki]**.
+
+[wiki]: https://github.com/egyptian-geeks/FAQ/wiki
 
